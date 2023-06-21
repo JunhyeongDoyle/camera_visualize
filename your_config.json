@@ -1,0 +1,10 @@
+{
+  "v00_index" : 2,
+  "main_camera": ["v0", "v3", "v12", "v15"],
+  "cone_size": 0.05,
+  "text_size": 15,
+  "graph_range": {
+    "z": [0, 2.5]
+  },
+  "pose_size" : 10
+}
