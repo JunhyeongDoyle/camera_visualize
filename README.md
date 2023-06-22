@@ -1,4 +1,4 @@
-## Pose Visualization Tool
+## Camera Pose Visualization Tool
 This project contains a Python script that visualizes 3D poses and camera trajectories from provided CSV and JSON files. The visualization is implemented using Plotly, which generates an interactive 3D plot.
 
 The CSV file should contain pose data, and the JSON file should contain camera data including position and rotation. Additionally, the tool allows customization of the visualization through a configuration JSON file. Users can specify main camera identifiers, cone size, text size, and the range of graph axes in the configuration file.
