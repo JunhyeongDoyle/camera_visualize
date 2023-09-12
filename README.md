@@ -5,7 +5,7 @@ The CSV file should contain pose data, and the JSON file should contain camera d
 
 This tool could be useful for individuals working with 3D pose estimation tasks, computer vision, or robotics, where visualizing poses and camera movements is crucial.
 
-![Demo](figure/figure1.png)
+![Demo](figure/figure.png)
 
 **Note:** This project assumes you have the following Python libraries installed: pandas, numpy, matplotlib and plotly
 
