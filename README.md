@@ -9,9 +9,9 @@ This tool could be useful for individuals working with 3D pose estimation tasks,
 
 **Note:** This project assumes you have the following Python libraries installed: pandas, numpy, matplotlib and plotly
 
-## GitHub README Update
+## New Version is Updated
+### Date : 12th September 2023
 
-Date: 12th September 2023
 
 <b>[Camera Parameters]</b>: You can now assign groups to different cameras and display them in distinct colors. This feature works similarly to the main camera setting from the previous version.
 
